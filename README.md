@@ -5,7 +5,9 @@ Implementation of the paper *MultiMath: Bridging Visual and Mathematical Reasoni
 [Paper](), [Image Dataset](https://huggingface.co/datasets/pengshuai-rin/multimath-300k), [Model](https://huggingface.co/pengshuai-rin/multimath-7b-llava-v1.5)
 
 ![ex1](assets/flow.png)
-![ex2](assets/spider.png)
+<p align="center">
+  <img src="assets/spider.png" alt="ex2" style="width: 80%;"/>
+</p>
 
 
 ## Performance
