@@ -1,0 +1,3 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+playground/MathVista/data/images.zip filter=lfs diff=lfs merge=lfs -text
+playground/MathVerse/images.zip filter=lfs diff=lfs merge=lfs -text
