@@ -1,0 +1,24 @@
+# Python
+__pycache__
+*.pyc
+*.egg-info
+dist
+
+# Editor
+.idea
+*.swp
+
+# Other
+.DS_Store
+wandb
+output
+
+checkpoints/*
+ckpts*
+
+.ipynb_checkpoints
+*.ipynb
+
+# DevContainer
+!.devcontainer/*
+
