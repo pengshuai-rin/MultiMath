@@ -2,7 +2,7 @@
 
 Implementation of the paper *MultiMath: Bridging Visual and Mathematical Reasoning for Large Language Models.*, including code, data and model.
 
-[Paper](), [Image Dataset](https://huggingface.co/datasets/pengshuai-rin/multimath-300k), [Model](https://huggingface.co/pengshuai-rin/multimath-7b-llava-v1.5)
+[Paper](https://arxiv.org/abs/2409.00147), [Image Dataset](https://huggingface.co/datasets/pengshuai-rin/multimath-300k), [Model](https://huggingface.co/pengshuai-rin/multimath-7b-llava-v1.5)
 
 ![ex1](assets/flow.png)
 <p align="center">
